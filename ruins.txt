@@ -1,0 +1,51 @@
+# Global Options for the Ruins mod
+#
+# tries_per_chunk is the number of times, per chunk, that the generator will
+#     attempt to create a ruin.
+#
+# chance_to_spawn is the chance, out of 100, that a ruin will be generated per
+#     try in this chunk.  This may still fail if the ruin does not have a
+#     suitable place to generate.
+#
+# chance_for_site is the chance, out of 100, that another ruin will attempt to
+#     spawn nearby if a ruin was already successfully spawned.  This bypasses
+#     the normal tries per chunk, so if this chance is set high you may end up
+#     with a lot of ruins even with a low tries per chunk and chance to spawn.
+#
+# specific_<biome name> is the chance, out of 100, that a ruin spawning in the
+#     specified biome will be chosen from the biome specific folder.  If not,
+#     it will choose a generic ruin from the root ruin folder.
+
+tries_per_chunk_normal=1
+chance_to_spawn_normal=25
+chance_for_site_normal=5
+chunks_behind_normal=5
+
+tries_per_chunk_nether=1
+chance_to_spawn_nether=50
+chance_for_site_nether=25
+chunks_behind_nether=5
+
+specific_Ocean=25
+specific_Plains=75
+specific_Desert=75
+specific_Extreme Hills=75
+specific_Forest=75
+specific_Taiga=75
+specific_Swampland=75
+specific_River=25
+specific_Hell=75
+specific_Sky=75
+specific_FrozenOcean=25
+specific_FrozenRiver=25
+specific_Ice Plains=75
+specific_Ice Mountains=75
+specific_MushroomIsland=75
+specific_MushroomIslandShore=75
+specific_Beach=75
+specific_DesertHills=75
+specific_ForestHills=75
+specific_TaigaHills=75
+specific_Extreme Hills Edge=75
+specific_Jungle=75
+specific_JungleHills=75

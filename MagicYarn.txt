@@ -1,0 +1,3 @@
+#Change the Magic Yarn multiplayer trigger key, if you want to.
+#Sat Apr 21 00:08:16 PDT 2012
+sTriggerKey=J

@@ -1,0 +1,74 @@
+/////////////////////////////////////////////////////////////////
+///                                                           ///
+///                                                           ///
+///           More Creeps and Weirdos Configuration           ///
+///                                                           ///
+///                       ver  2.57                           ///
+///                                                           ///
+///                                                           ///
+/////////////////////////////////////////////////////////////////
+///
+/////////////////// CREEPS
+///
+///  SPAWNRATES: 0 = none    12 = max    	
+///
+///
+ArmyGuy=5
+BabyMummy=7
+BigBaby=5
+BlackSoul=5
+Blorp=6
+BubbleScum=6
+Bum=6
+Camel=6
+CamelJockey=6
+Caveman=5
+DesertLizard=7
+DigBug=7
+DiscoMole=7
+EvilScientist=7
+Floob=5
+FloobShip=2
+G=5
+GooGoat=6
+GrowbotGregg=6
+GuineaPig=9
+Hippo=7
+HorseHead=5
+Hotdog=9
+Hunchback=7
+InvisibleMan=7
+Kid=5
+LawyerFromHell=7
+Lolliman=3
+ManDog=7
+Mummy=5
+NonSwimmer=5
+PonyGirl=5
+Preacher=7
+RobotTed=7
+RobotTodd=7
+RockMonster=7
+RocketGiraffe=5
+SneakySal=6
+SnowDevil=7
+Thief=7
+Zebra=6
+///
+/////////////////// WORLD FEATURES
+///
+/// FEATURES: 0 = OFF    1 = ON
+///
+/// Pyramid/Castle rarity from 1-10     1 - LESS Pyramids/Castles    10 - MORE Pyramids/Castles
+///
+PyramidGen=1
+PyramidRarity=5
+CastleGen=1
+CastleRarity=5
+RayGunFire=1
+RayGunMelt=1
+FloobshipExplode=1
+PublicUrination=1
+JailActive=1
+Blood=1
+BlorpMaxSize=7

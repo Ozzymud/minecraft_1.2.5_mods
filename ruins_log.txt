@@ -1,0 +1,186 @@
+Loading the generic ruins templates...
+
+Loading the Ocean ruins templates...
+Successfully loaded template BaloonHigh.tml with weight 3.
+Successfully loaded template BaloonLow.tml with weight 3.
+Successfully loaded template LightHouse.tml with weight 2.
+Successfully loaded template PirateShip.tml with weight 2.
+Successfully loaded template SkyCastle.tml with weight 2.
+Loaded Ocean ruins templates, biomeID 0
+
+Loading the Plains ruins templates...
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Loaded Plains ruins templates, biomeID 1
+
+Loading the Desert ruins templates...
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template SandCastle.tml with weight 4.
+Successfully loaded template SandTrap.tml with weight 8.
+Loaded Desert ruins templates, biomeID 2
+
+Loading the Extreme Hills ruins templates...
+Successfully loaded template BaloonLow.tml with weight 4.
+Successfully loaded template BaloonVeryLow.tml with weight 4.
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Loaded Extreme Hills ruins templates, biomeID 3
+
+Loading the Forest ruins templates...
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Loaded Forest ruins templates, biomeID 4
+
+Loading the Taiga ruins templates...
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template FrozenBush.tml with weight 30.
+Successfully loaded template FrozenTree.tml with weight 30.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Loaded Taiga ruins templates, biomeID 5
+
+Loading the Swampland ruins templates...
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Loaded Swampland ruins templates, biomeID 6
+
+Loading the River ruins templates...
+Successfully loaded template BaloonHigh.tml with weight 3.
+Successfully loaded template BaloonLow.tml with weight 3.
+Successfully loaded template LightHouse.tml with weight 2.
+Successfully loaded template PirateShip.tml with weight 2.
+Successfully loaded template SkyCastle.tml with weight 2.
+Loaded River ruins templates, biomeID 7
+
+Loading the Hell ruins templates...
+Successfully loaded template FlamingSkullHouse.tml with weight 10.
+Successfully loaded template LargeNetherHouse.tml with weight 3.
+Successfully loaded template NetherHouse.tml with weight 3.
+Successfully loaded template NetherShrine.tml with weight 2.
+Successfully loaded template PortalShrine.tml with weight 2.
+Successfully loaded template ShortNetherTower.tml with weight 5.
+Successfully loaded template TallNetherTower.tml with weight 5.
+Loaded Hell ruins templates, biomeID 8
+
+Loading the Sky ruins templates...
+Loaded Sky ruins templates, biomeID 9
+
+Loading the FrozenOcean ruins templates...
+Successfully loaded template BaloonHigh.tml with weight 3.
+Successfully loaded template BaloonLow.tml with weight 3.
+Successfully loaded template LightHouse.tml with weight 2.
+Successfully loaded template PirateShip.tml with weight 2.
+Successfully loaded template SkyCastle.tml with weight 2.
+Loaded FrozenOcean ruins templates, biomeID 10
+
+Loading the FrozenRiver ruins templates...
+Successfully loaded template BaloonHigh.tml with weight 3.
+Successfully loaded template BaloonLow.tml with weight 3.
+Successfully loaded template LightHouse.tml with weight 2.
+Successfully loaded template PirateShip.tml with weight 2.
+Successfully loaded template SkyCastle.tml with weight 2.
+Loaded FrozenRiver ruins templates, biomeID 11
+
+Loading the Ice Plains ruins templates...
+Successfully loaded template FrozenBush.tml with weight 30.
+Successfully loaded template FrozenTree.tml with weight 30.
+Successfully loaded template Igloo.tml with weight 30.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Loaded Ice Plains ruins templates, biomeID 12
+
+Loading the Ice Mountains ruins templates...
+Successfully loaded template FrozenBush.tml with weight 30.
+Successfully loaded template FrozenTree.tml with weight 30.
+Successfully loaded template Igloo.tml with weight 30.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Loaded Ice Mountains ruins templates, biomeID 13
+
+Loading the MushroomIsland ruins templates...
+Loaded MushroomIsland ruins templates, biomeID 14
+
+Loading the MushroomIslandShore ruins templates...
+Loaded MushroomIslandShore ruins templates, biomeID 15
+
+Loading the Beach ruins templates...
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template SandCastle.tml with weight 4.
+Successfully loaded template SandTrap.tml with weight 8.
+Loaded Beach ruins templates, biomeID 16
+
+Loading the DesertHills ruins templates...
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template SandCastle.tml with weight 4.
+Successfully loaded template SandTrap.tml with weight 8.
+Loaded DesertHills ruins templates, biomeID 17
+
+Loading the ForestHills ruins templates...
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Loaded ForestHills ruins templates, biomeID 18
+
+Loading the TaigaHills ruins templates...
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template FrozenBush.tml with weight 30.
+Successfully loaded template FrozenTree.tml with weight 30.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Loaded TaigaHills ruins templates, biomeID 19
+
+Loading the Extreme Hills Edge ruins templates...
+Successfully loaded template BaloonLow.tml with weight 4.
+Successfully loaded template BaloonVeryLow.tml with weight 4.
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Loaded Extreme Hills Edge ruins templates, biomeID 20
+
+Loading the Jungle ruins templates...
+Successfully loaded template JungleSpiderBurrow.tml with weight 1.
+Successfully loaded template JungleThroneWood.tml with weight 1.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded Jungle ruins templates, biomeID 21
+
+Loading the JungleHills ruins templates...
+Successfully loaded template JungleSpiderBurrow.tml with weight 1.
+Successfully loaded template JungleThroneWood.tml with weight 1.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded JungleHills ruins templates, biomeID 22
+
+Loading excluded list from: C:\Users\dhaggert\AppData\Roaming\.minecraft\saves\Highland Home
+No exclusions found for this world.
+
+Loading options from: C:\Users\dhaggert\AppData\Roaming\.minecraft\saves\Highland Home
+Ruins mod loaded.

@@ -1,0 +1,17 @@
+#
+# 	BATTLE TOWERS CONFIG
+#
+# 	rarity = set higher to get rarer BattleTowers. 3 is default, you might have to set it a LOT higher to make them actually rare.
+#
+#
+rarity = 6
+#
+# 	minDistanceBetweenTowers = how much "Blocks" any two Tower Bases have to be apart
+#
+#
+minDistanceBetweenTowers = 128
+#
+#	towerDestroyerEnabled = do Towers fall once their Golem has died
+#
+#
+towerDestroyerEnabled = 1
